@@ -29,7 +29,7 @@
             <grid_density>8</grid_density>
             <!-- total width of grid in metres -->
             <grid_width>40.0</grid_width>
-            <!-- total height of grid in metres -->
+
             <grid_height>40.0</grid_height>
             <!--  minimum distance from buildings for valid spawn point -->
             <min_dist_static>0.5</min_dist_static>

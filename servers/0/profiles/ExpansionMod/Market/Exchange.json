@@ -7,10 +7,10 @@
   "IsExchange": 1,
   "Items": [
     {
-      "ClassName": "expansionbanknotehryvnia",
+      "ClassName": "expansionbanknoteeuro",
       "MaxPriceThreshold": 1,
       "MinPriceThreshold": 1,
-      "SellPricePercent": -1.0,
+      "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -18,10 +18,10 @@
       "Variants": []
     },
     {
-      "ClassName": "expansionbanknoteeuro",
+      "ClassName": "expansionbanknotehryvnia",
       "MaxPriceThreshold": 1,
       "MinPriceThreshold": 1,
-      "SellPricePercent": -1,
+      "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
