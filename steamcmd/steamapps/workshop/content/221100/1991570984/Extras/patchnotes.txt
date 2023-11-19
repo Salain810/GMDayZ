@@ -1,0 +1,3 @@
+Patch notes:
+- Fix for recursive attachment exclusion being applied from paramedic bag. This should fix the issue of attachments falling off players when relogging while carrying a paramedic bag with attachments.
+- Changed so you can't do heart emote anymore while carrying a kit

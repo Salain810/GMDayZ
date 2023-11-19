@@ -1,0 +1,35 @@
+serverTimeAcceleration = 6;
+instanceId = 1;
+maxPlayers = 60;
+logAverageFps = 10;
+serverNightTimeAcceleration = 1;
+forceSameBuild = 1;
+steamQueryPort = 27016;
+disablePersonalLight = 0;
+multithreadedReplication = 1;
+hostname = "Generally Morbid DayZ";
+serverTime = "SystemTime";
+passwordAdmin = "J0ker$2";
+class Missions
+{
+	class DayZ
+	{
+		template="dayzOffline.chernarusplus";
+	};
+};
+disableVoN = 0;
+vonCodecQuality = 20;
+loginQueueMaxPlayers = 500;
+storageAutoFix = 1;
+disable3rdPerson = 0;
+loginQueueConcurrentPlayers = 5;
+password = "J0ker$1";
+enableWhitelist = 0;
+verifySignatures = 2;
+storeHouseStateDisabled = 0;
+lightingConfig = 0;
+serverTimePersistent = 1;
+enableDebugMonitor = 0;
+disableCrosshair = 0;
+guaranteedUpdates = 1;
+logFile = "serverconsole.log";

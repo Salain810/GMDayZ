@@ -1,0 +1,21 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "EXCHANGETRADER",
+    "Position": [
+        8599.6904296875,
+        105.65699768066406,
+        13330.2001953125
+    ],
+    "Radius": 50.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": 100.0,
+    "Stock": {
+        "dogtag_survivor": 1,
+        "dogtag_silver": 0,
+        "dogtag_bandit": 0,
+        "expansionbanknotehryvnia": 0,
+        "dogtag_hero": 0,
+        "dogtag_granite": 0,
+        "dogtag_cobalt": 0
+    }
+}

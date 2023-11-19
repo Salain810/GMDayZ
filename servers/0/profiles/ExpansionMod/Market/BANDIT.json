@@ -1,0 +1,109 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BANDIT",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "bearpelt",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cowpelt",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "deerpelt",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "goatpelt",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pigpelt",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "rabbitpelt",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sheeppelt",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "wildboarpelt",
+      "MaxPriceThreshold": 700,
+      "MinPriceThreshold": 700,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "wolfpelt",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

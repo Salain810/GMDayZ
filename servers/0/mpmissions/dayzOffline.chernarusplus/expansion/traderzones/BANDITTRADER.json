@@ -1,0 +1,33 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "BANDITTRADER",
+    "Position": [
+        2077.5859375,
+        247.1674041748047,
+        12204.8095703125
+    ],
+    "Radius": 50.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": 100.0,
+    "Stock": {
+        "pigpelt": 0,
+        "bearpelt": 0,
+        "wildboarpelt": 0,
+        "wolfsteakmeat": 81,
+        "goatpelt": 0,
+        "bearsteakmeat": 75,
+        "goatsteakmeat": 75,
+        "boarsteakmeat": 75,
+        "cowsteakmeat": 75,
+        "deersteakmeat": 75,
+        "wolfpelt": 0,
+        "rabbitlegmeat": 75,
+        "rabbitpelt": 0,
+        "pigsteakmeat": 75,
+        "sheepsteakmeat": 75,
+        "deerpelt": 0,
+        "cowpelt": 0,
+        "chickenbreastmeat": 75,
+        "sheeppelt": 0
+    }
+}
