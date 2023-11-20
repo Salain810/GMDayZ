@@ -1,0 +1,13 @@
+This mod creates a config in "profiles" folder named ExtraFarmingItems.json.
+You can set different amounts of crop and growtime for each plant.
+Fertilization reduces the growtime and doubles the crop.
+Growtime adds a randomizer so the time is not 100% exact.
+
+Explanation of ExtraFarmingItems.json:
+	"configVersion": 250,					// Mod version.  250 = 2.5.0
+	"removeAfterHarvest": 1,				// 1 = Removes plant after harvesting; 0 = Leaves plant after harvest.
+	
+	"EFI_Carrot_growtime": 20,				// Growtime of Carrot in minutes so this is 20 minutes
+	"EFI_Carrot_cropcount": 2,				// Amount of Carrots harvested so this will be 2 (with out Fertilization)
+
+and so on for the rest of the config. the default is at 20 minutes with 2 crops at harvest (4 if fertalized)
