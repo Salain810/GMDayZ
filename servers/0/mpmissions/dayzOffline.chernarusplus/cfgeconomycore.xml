@@ -104,5 +104,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<ce folder="CustomTypes/BedRespawn">
 		<file name="bedrespawn.xml" type="types" />
 	</ce>
+	<ce folder="CustomTypes/EFI">
+		<file name="EFI.xml" type="types" />
+	</ce>
 	<!-- ....To here -->
 </economycore>
