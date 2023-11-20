@@ -5,7 +5,7 @@
     "HealthPercentage": 100,
     "EnergyPercentage": 100,
     "WaterPercentage": 100,
-    "DisableAutoSpawnCall": 0,
+    "DisableAutoSpawnCall": 1,
     "EnableBBP": 1,
     "EnableMung": 1
 }

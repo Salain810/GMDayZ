@@ -1,0 +1,109 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BBP MATERIALS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "bbp_blueprint",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_cement",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_mortar_mix",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_tapemeasure",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_bedding",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_blueprint_expanded",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 40,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_carpet_roll",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 25,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_bucket",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_wood_storage",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

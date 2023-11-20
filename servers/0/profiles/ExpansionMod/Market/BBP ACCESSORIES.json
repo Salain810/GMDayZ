@@ -1,0 +1,175 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BBP ACCESSORIES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "bbp_floor_lamp",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_gang_plug",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_golf",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_magnetbox",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_old_lamp",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_painting_1",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_painting_2",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_painting_landscape",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_photoframe_landscape",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_photoframe_portrait",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_toilet",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_wheelbarrow",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_xmas_tree",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_xmaslights_9v",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bbp_xmaslights_solar",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

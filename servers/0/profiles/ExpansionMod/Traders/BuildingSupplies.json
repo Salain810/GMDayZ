@@ -10,14 +10,17 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "GARDENING",
-    "TOOLS",
-    "SUPPLIES",
-    "LOCKS",
     "CONTAINERS",
+    "SUPPLIES",
+    "TOOLS",
     "TENTS",
+    "LOCKS",
+    "FLAGS",
     "FURNISHINGS",
-    "FLAGS"
+    "GARDENING",
+    "BBP ACCESSORIES",
+    "BBP KITS",
+    "BBP MATERIALS"
   ],
   "Items": {}
 }

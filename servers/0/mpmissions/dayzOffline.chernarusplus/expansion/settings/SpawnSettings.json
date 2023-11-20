@@ -249,32 +249,6 @@
         ]
       ],
       "UseCooldown": 0
-    },
-    {
-      "Name": "Kamenka",
-      "Positions": [
-        [
-          2164.7002,
-          1.72801399,
-          2049.44385
-        ],
-        [
-          2031.42542,
-          1.29074299,
-          2150.74341
-        ],
-        [
-          1708.52307,
-          1.95830905,
-          2031.26367
-        ],
-        [
-          1563.32568,
-          2.17413211,
-          2063.25488
-        ]
-      ],
-      "UseCooldown": 0
     }
   ],
   "StartingClothing": {
@@ -352,12 +326,17 @@
     "PantsGear": [
       {
         "ClassName": "Apple",
-        "Quantity": 1,
+        "Quantity": -1,
         "Attachments": []
       },
       {
         "ClassName": "SodaCan_Cola",
-        "Quantity": 1,
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "ketchup_mung",
+        "Quantity": -1,
         "Attachments": []
       }
     ],
