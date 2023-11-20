@@ -6,7 +6,6 @@ mpmissions/dayzOffline.chernarusplus/storage_[0-9]*
 keys/
 !Workshop/
 logs/
-config/
 appcache/
 EventManagerLog/
 Users/
