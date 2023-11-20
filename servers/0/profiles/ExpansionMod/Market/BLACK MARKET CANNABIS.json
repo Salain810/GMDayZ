@@ -192,6 +192,28 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "msp_greenhouse_kit",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "msp_greenhousewood_kit",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     }
   ]
 }
