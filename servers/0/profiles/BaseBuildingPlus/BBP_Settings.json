@@ -11,7 +11,7 @@
   "BBP_CanRaiseAndLowerHologram": 1,
   "BBP_HologramHasCollision": 1,
   "BBP_InventoryToggle": 1,
-  "BBP_HideKitWhilePlacing": 0,
+  "BBP_HideKitWhilePlacing": 1,
   "BBP_BarbedWireRemoveOutside": 1,
   "BBP_CanAttachFlashlights": 1,
   "BBP_CanAttachXmaslights": 1,

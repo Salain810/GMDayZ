@@ -5,7 +5,7 @@
   "GarageMode": 0,
   "GarageStoreMode": 0,
   "GarageRetrieveMode": 0,
-  "MaxStorableVehicles": 2,
+  "MaxStorableVehicles": 20,
   "VehicleSearchRadius": 20.0,
   "MaxDistanceFromStoredPosition": 150.0,
   "CanStoreWithCargo": 1,
@@ -15,7 +15,7 @@
     "ExpansionParkingMeter"
   ],
   "EnableGroupFeatures": 0,
-  "GroupStoreMode": 0,
+  "GroupStoreMode": 2,
   "EnableMarketFeatures": 1,
   "StorePricePercent": 5.0,
   "StaticStorePrice": 0,

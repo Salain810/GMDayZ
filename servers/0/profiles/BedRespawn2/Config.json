@@ -1,5 +1,5 @@
 {
-    "MaxRespawnsBeforeRemoval": 0,
+    "MaxRespawnsBeforeRemoval": 50,
     "BedRespawnTimeMinutes": 45,
     "EnableOpBaseItemSupport": 1,
     "HealthPercentage": 100,
