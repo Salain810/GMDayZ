@@ -29,7 +29,8 @@
         143,
         12466
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Trader_Kamenka",
@@ -43,7 +44,8 @@
         8,
         2382
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Boats_Kamenka",
@@ -57,7 +59,8 @@
         4,
         2027
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Aircrafts_Balota",
@@ -71,7 +74,8 @@
         12,
         2436
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Boats_Svetloyarsk",
@@ -85,7 +89,8 @@
         6,
         13256
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Trader_Green_Mountain",
@@ -99,7 +104,8 @@
         405,
         5988
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Trader_BlackMarket",
@@ -113,7 +119,8 @@
         478,
         9115
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Trader_Bandit",
@@ -127,7 +134,8 @@
         247,
         12204
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     },
     {
       "m_UID": "ServerMarker_Trader_Exchange",
@@ -141,7 +149,8 @@
         111,
         13329
       ],
-      "m_Locked": 0
+      "m_Locked": 0,
+      "m_Persist": 0
     }
   ],
   "EnableHUDCompass": 1,

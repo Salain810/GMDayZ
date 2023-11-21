@@ -42,5 +42,6 @@
   "KillFeedInfected": 0,
   "KillFeedAnimal": 0,
   "KillFeedKilledUnknown": 0,
-  "KillFeedDiedUnknown": 0
+  "KillFeedDiedUnknown": 0,
+  "EnableKillFeedDiscordMsg": 0
 }
