@@ -118,7 +118,7 @@
   ],
   "ZonesAreNoBuildZones": 1,
   "CodelockAttachMode": 2,
-  "DismantleFlagMode": 1,
+  "DismantleFlagMode": -1,
   "FlagMenuMode": 1,
   "EnableVirtualStorage": 0,
   "VirtualStorageExcludedContainers": [
