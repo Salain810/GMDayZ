@@ -1,0 +1,30 @@
+{
+    "m_Version": 3,
+    "m_TerritoryID": 0,
+    "m_OwnerUID": "3qor-_L32_5v-6SwsE0dJJzXcbCIbrt6kNzzDagyhYY=",
+    "m_Vehicles": [
+        {
+            "m_OwnerUIDs": [
+                "3qor-_L32_5v-6SwsE0dJJzXcbCIbrt6kNzzDagyhYY="
+            ],
+            "m_ClassName": "Atv_black",
+            "m_Position": [
+                7980.10009765625,
+                180.8257598876953,
+                11968.6943359375
+            ],
+            "m_Orientation": [
+                -20.15703582763672,
+                -2.5560500621795656,
+                2.9673781394958498
+            ],
+            "m_GlobalID": [
+                -2147483648,
+                -2147483648,
+                -2147483648,
+                -2147474145
+            ],
+            "m_SkinName": ""
+        }
+    ]
+}
