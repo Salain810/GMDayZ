@@ -384,10 +384,10 @@
     <category name="food" />
   </type>
   <type name="CP_CannabisSeedsPackBlackFrost">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -397,10 +397,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CP_CannabisSeedsPackBlue">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -410,10 +410,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CP_CannabisSeedsPackFuture">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -423,10 +423,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CP_CannabisSeedsPackKush">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -436,10 +436,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CP_CannabisSeedsPackNomad">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -449,10 +449,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CP_CannabisSeedsPackS1">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -462,10 +462,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CP_CannabisSeedsPackSkunk">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -475,10 +475,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CP_CannabisSeedsPackStardawg">
-    <nominal>10</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>20</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
