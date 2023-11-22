@@ -95,8 +95,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="CustomTypes/Dogtags">
 		<file name="Dogtags.xml" type="types" />
 	</ce>
-		<ce folder="CustomTypes/BedRespawn">
+	<ce folder="CustomTypes/BedRespawn">
 		<file name="bedrespawn.xml" type="types" />
+	</ce>
+	<ce folder="CustomTypes/OPBaseitems">
+		<file name="OPBaseitems.xml" type="types" />
 	</ce>
 	<!-- ....To here -->
 </economycore>
