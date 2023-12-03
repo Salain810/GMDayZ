@@ -376,34 +376,6 @@
       "Variants": []
     },
     {
-      "ClassName": "mrap_cougar",
-      "MaxPriceThreshold": 700000,
-      "MinPriceThreshold": 30000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 100,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [
-        "sparkplug",
-        "carbattery",
-        "carradiator",
-        "headlighth7",
-        "headlighth7",
-        "canistergasoline",
-        "mrap_wheel",
-        "mrap_wheel",
-        "mrap_wheel",
-        "mrap_wheel",
-        "mrap_wheel",
-        "mrap_doors_driver",
-        "mrap_doors_codriver",
-        "mrap_doors_trunk0",
-        "mrap_doors_trunk",
-        "mrap_doors_hood"
-      ],
-      "Variants": []
-    },
-    {
       "ClassName": "offroad_02",
       "MaxPriceThreshold": 100000,
       "MinPriceThreshold": 50000,
