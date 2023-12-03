@@ -10,9 +10,10 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "HELICOPTERS",
+    "BATTERIES",
     "VEHICLE_PARTS",
-    "BATTERIES"
+    "HELICOPTERS",
+    "SPRAYCANS"
   ],
   "Items": {}
 }
