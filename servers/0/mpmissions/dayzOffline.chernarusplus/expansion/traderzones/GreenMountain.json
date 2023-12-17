@@ -10,7 +10,7 @@
   "BuyPricePercent": 100.0,
   "SellPricePercent": 50.0,
   "Stock": {
-    "": 0,
+    "gasmask_filter": 75,
     "expansionspraycanmerlinvrana": 75,
     "booniehat_blue": 75,
     "canvas_backpack_red": 0,

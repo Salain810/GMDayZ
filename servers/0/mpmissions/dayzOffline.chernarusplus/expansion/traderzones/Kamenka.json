@@ -10,7 +10,7 @@
   "BuyPricePercent": 100.0,
   "SellPricePercent": 50.0,
   "Stock": {
-    "": 0,
+    "gasmask_filter": 75,
     "6b38_camo_mung": 37,
     "6b38_leto_mung": 37,
     "aa12_gun": 75,

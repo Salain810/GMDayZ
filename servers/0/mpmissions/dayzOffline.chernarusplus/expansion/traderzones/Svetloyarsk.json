@@ -10,6 +10,7 @@
   "BuyPricePercent": 100.0,
   "SellPricePercent": 50.0,
   "Stock": {
+    "gasmask_filter": 75,
     "civsedandoors_driver_black": 75,
     "hatchback_02_trunk": 75,
     "vg7_r_cargo_door_blue": 75,
